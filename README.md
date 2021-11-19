@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xingtitan&label=Profile%20views&color=0e75b6&style=flat" alt="xingtitan" /> </p>
 
-- 🔭 I’m currently working on [LandingPage](https://github.com/Xingtitan/LandingPage_easybank)
+- 🔭 I’m currently working on [SelfTaught](https://github.com/Xingtitan/SelfTaught)
 
 - 🌱 I’m currently learning **JavaScript | Sass | Css | React JS**
-
-- 👯 I’m looking to collaborate on [LandingPage_Starbucks](https://github.com/Xingtitan/LandingPage_Starbucks)
 
 - 💬 Ask me about **Sass**
 
