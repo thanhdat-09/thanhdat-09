@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Thanh Dat Tran</h1>
 <h3 align="center">A devoted frontend developer hailing from Vietnam, eager to bring innovative and creative solutions to the digital realm through my coding prowess and commitment to excellence.</h3>
-
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhdat-09&label=Profile%20views&color=0e75b6&style=flat" alt="thanhdat-09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dattranthanh09" target="blank"><img src="https://img.shields.io/twitter/follow/dattranthanh09?logo=twitter&style=for-the-badge" alt="dattranthanh09" /></a> </p>
